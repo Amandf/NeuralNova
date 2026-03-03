@@ -1,4 +1,4 @@
-# 🚀 AI Career Coach – Full Stack SaaS Application
+#  AI Career Coach – Full Stack SaaS Application
 
 An AI-powered career development platform built using modern full-stack technologies.  
 This application helps users generate industry insights, mock interviews, and ATS-optimized resumes using AI.
