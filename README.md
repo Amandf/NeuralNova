@@ -5,7 +5,7 @@ This application helps users generate industry insights, mock interviews, and AT
 
 ---
 
-## 🌟 Features
+##  Features
 
 ### 🔐 Authentication
 - Secure login/signup using Clerk
